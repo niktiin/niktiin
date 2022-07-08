@@ -8,8 +8,9 @@ const Nikita = {
   pronouns: "He" | "his",
   code: [Javascript, HTML, CSS, PHP],
   tools: [VueJs, Vuex, Node, Webpack, Styled-Components],
-  architecture: ["microservices", "design system pattern"],
-  challenge: "I write code and study 24/7 to get my first job in IT"
+  cssPreprocessor: ["scss/sass"],
+  linters: ["esLint/Prettier"],
+  challenge: "I write code and study 24/7 to get my first job in IT",
 }
 ```
 
