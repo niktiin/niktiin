@@ -6,10 +6,10 @@ A little more about me...
 ```javascript
 const Nikita = {
   pronouns: "He" | "his",
-  code: [Javascript, HTML, CSS, PHP],
-  tools: [VueJs, Vuex, Vue-router, Node, Webpack, Styled-Components],
+  code: [Javascript, HTML, SCSS, PHP],
+  tools: [VueJs, Vuex, 'Vue-router', Node, Webpack, 'Styled-Components'],
   cssPreprocessor: ["scss/sass"],
-  linters: ["esLint/Prettier"],
+  linters: ["esLint"],
   challenge: "I write code and study 24/7 to get my first job in IT",
 }
 ```
