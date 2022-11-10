@@ -7,7 +7,7 @@ A little more about me...
 const Nikita = {
   pronouns: "He" | "his",
   code: [Javascript, HTML, CSS, PHP],
-  tools: [VueJs, Vuex, Node, Webpack, Styled-Components],
+  tools: [VueJs, Vuex, Vue-router, Node, Webpack, Styled-Components],
   cssPreprocessor: ["scss/sass"],
   linters: ["esLint/Prettier"],
   challenge: "I write code and study 24/7 to get my first job in IT",
