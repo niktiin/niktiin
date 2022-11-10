@@ -1,5 +1,5 @@
 ### Hi there 👋, My name is Nikita
-#### I'm a Front-end Developer working and studying in Moscow, Russia.
+#### I'm a full-stack developer working and studying in Moscow, Russia.
 
 A little more about me...  
 
